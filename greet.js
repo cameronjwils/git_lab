@@ -1,7 +1,7 @@
- fix/rename_function
+fix / rename_function
 const greet = (name = "World") => {
-  return `Hello ${name}!`;
+    return `Hello ${name}!`;
 }
 
 const helloWorld = (name = "World") => `Hello ${name}!`;
- develop
+develop
